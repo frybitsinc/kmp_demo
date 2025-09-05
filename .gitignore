@@ -19,6 +19,6 @@ captures
 # Xcode derived data & index caches
 **/DerivedData/
 **/*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-**/*.xcuserdatad/
+**/xcuserdata/
 **/*.xcscmblueprint
 **/*.noindex/
